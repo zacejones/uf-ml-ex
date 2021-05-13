@@ -1,0 +1,10 @@
+Movie,Genre,Length,Director,Famous Actors,Liked
+m1,Comedy,Short,Adamson,No,Yes
+m2,Animated,Short,Lasseter,No,No
+m3,Drama,Medium,Adamson,No,Yes
+m4,Animated,Long,Lasseter,Yes,No
+m5,Comedy,Long,Lasseter,Yes,No
+m6,Drama,Medium,Singer,Yes,Yes
+m7,Animated,Short,Singer,No,Yes
+m8,Comedy,Long,Adamson,Yes,Yes
+m9,Drama,Medium,Lasseter,No,Yes
